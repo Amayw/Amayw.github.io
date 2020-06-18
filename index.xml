@@ -6,10 +6,19 @@
     <description>Recent content on Wanger&#39; Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 11:38:50 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 11:52:23 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mysecond</title>
+      <link>http://example.org/posts/mysecond/</link>
+      <pubDate>Thu, 18 Jun 2020 11:52:23 +0800</pubDate>
+      
+      <guid>http://example.org/posts/mysecond/</guid>
+      <description>hugo+github搭建博客  安装hugo 下载地址 根据官网QuickStart完成第一篇博客  创建名为xxx.github.io的git仓库(此处xxx为github的用户名)，将public文件上传到此仓库 仓库-settings找到github Pages,点击链接即可访问博客  </description>
+    </item>
     
     <item>
       <title>Myfirst</title>
@@ -17,7 +26,7 @@
       <pubDate>Thu, 18 Jun 2020 11:38:50 +0800</pubDate>
       
       <guid>http://example.org/posts/myfirst/</guid>
-      <description>###������������ѽ</description>
+      <description>������������ѽ </description>
     </item>
     
   </channel>
